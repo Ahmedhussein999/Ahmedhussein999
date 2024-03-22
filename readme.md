@@ -28,9 +28,6 @@
 
 ps://instagram.com/_alsiam" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
- <a 
-  </a> 
 </p>
 <br />
 
@@ -38,7 +35,8 @@ ps://instagram.com/_alsiam" target="_blank">
  # About me
  
 <p>
- <img align="right" width="350" src="[/assets/programmer.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2c1OHRyc2pwZ3E5Z2Z5aHQ5eWd2N2F0dDMxeWVnMm9lZjMwMjlrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4NrWuucrAOu0U/giphy.gif)" alt="Coding gif" />
+ <img align="right" width="350" src="[/assets/programmer.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2c1OHRyc2pwZ3E5Z2Z5aHQ5eWd2N2F0dDMxeWVnMm9lZjMwMjlrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4NrWuucrAOu0U/giphy.gif)" alt="winnie-the-pooh-kiss.gif
+" />
   
 
  📧 &emsp; Reach me anytime: Ahmedhussein5@student.tdsb.on.ca"<br/><br/>
@@ -52,11 +50,6 @@ ps://instagram.com/_alsiam" target="_blank">
 
 ## Use To Code
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 !lor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
