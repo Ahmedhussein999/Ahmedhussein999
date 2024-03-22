@@ -16,7 +16,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="[https://www.google.com/search?q=Al+Siam](https://www.tdsb.on.ca/Find-your/Schools/schno/5625)">「 」</a>
     <br>
     「 I am a student in <b>ICS3U</b> 」
     <br>
@@ -26,8 +26,8 @@
 
 <p align="center">
 
-ps://instagram.com/_alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Ahmed" />
 </p>
 <br />
 
@@ -35,7 +35,7 @@ ps://instagram.com/_alsiam" target="_blank">
  # About me
  
 <p>
- <img align="right" width="350" src="[/assets/programmer.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2c1OHRyc2pwZ3E5Z2Z5aHQ5eWd2N2F0dDMxeWVnMm9lZjMwMjlrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4NrWuucrAOu0U/giphy.gif)" alt="winnie-the-pooh-kiss.gif
+ <img align="right" width="350" src="" alt="winnie-the-pooh-kiss.gif
 " />
   
 
@@ -58,10 +58,8 @@ ps://instagram.com/_alsiam" target="_blank">
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
+[![personal website]()
+
 
 <p align="left">
   <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
