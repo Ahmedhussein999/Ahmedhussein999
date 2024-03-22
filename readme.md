@@ -35,7 +35,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="" alt="winnie-the-pooh-kiss.gif
+ <img align="right" width="350" src="" alt="assets/winnie-the-pooh-kiss.gif
 " />
   
 
@@ -50,8 +50,7 @@
 
 ## Use To Code
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-!lor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)a
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
