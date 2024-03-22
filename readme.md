@@ -22,7 +22,8 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
+                <b><a target="_blank" href="![image](https://github.com/Ahmedhussein999/Ahmedhussein999/assets/159823844/d2b487a2-e54b-4921-a0ed-1ed62e55c83d)
+">Ahmed</a></b>
         </samp>
 </h3>
 
@@ -31,7 +32,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a student in <b>ICS3U</b> 」
     <br>
     <br>
   </samp>
@@ -65,10 +66,9 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+
+ 📧 &emsp; Reach me anytime: Ahmedhussein5@student.tdsb.on.ca"<br/><br/>
+
 
 </p>
 
