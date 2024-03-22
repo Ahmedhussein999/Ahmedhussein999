@@ -71,13 +71,13 @@
 <p align="center">
   <a href="https://github.com/alsiam">
     <img src="![image](https://github.com/Ahmedhussein999/Ahmedhussein999/assets/159823844/b26889f8-8547-49a5-aa28-a7928470e542)
-" alt="Saif's GitHub streak"/>
+" alt=""/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/alsiam">
-    <img src="![image](https://github.com/Ahmedhussein999/Ahmedhussein999/assets/159823844/95df0d9e-52d2-4fd1-a655-c0e5b9c74c2b)" alt="Ahmed's GitHub Contribution"/>
+    <img src="![image](https://github.com/Ahmedhussein999/Ahmedhussein999/assets/159823844/95df0d9e-52d2-4fd1-a655-c0e5b9c74c2b)" alt=""/>
   </a>
 </p>
 
